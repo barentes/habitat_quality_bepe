@@ -25,15 +25,18 @@ The research followed the processing steps detailed below:
 Extraction of descriptive statistics and percentiles from the map of priority areas for the implementation of Payment for Environmental Services (PES) and opportunity cost maps. 
 * **Status:** JavaScript codes are available in the `/scripts` folder.
 
-### 2. Statistical Analysis (R)
-Linear regression and literature review analysis to substantiate the elaboration of scenarios. Scripts cover data cleaning and statistical modeling.
+### 2. Literature Review Analysis (R)
+Literature review analysis to substantiate the elaboration of threat table (input data in theInVEST model).
 
-### 3. Opportunity Cost (ArcGIS)
+### 3. Linear regression for sensibility table (R)
+Linear regression to substantiate the elaboration of sensibility table (input data in theInVEST model).
+
+### 4. Opportunity Cost (ArcGIS)
 Development of the opportunity cost map using the Raster Calculator.
 
   * **Formula applied:** > $Opportunity Cost = (Land Price \times 0.5) + (Agricultural Suitability \times 0.5)$
 
-### 4. Land Use Scenarios
+### 5. Land Use Scenarios
 Scripts for the spatialization of **conservative** and **feasible** scenarios related to the research objectives.
 
 ---
