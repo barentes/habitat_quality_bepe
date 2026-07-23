@@ -22,8 +22,7 @@ The work focused on the preparation of input data (threats and sensitivity table
 The research followed the processing steps detailed below:
 
 ### 1. Pre-processing (Google Earth Engine)
-Extraction of descriptive statistics and percentiles from the map of priority areas for the implementation of Payment for Environmental Services (PES) and opportunity cost maps. 
-* **Status:** JavaScript codes are available in the `/scripts` folder.
+Extraction of descriptive statistics and percentiles from the map of priority areas for the implementation of Payment for Environmental Services (PES). 
 
 ### 2. Literature Review Analysis (R)
 Literature review analysis to substantiate the elaboration of threat table (input data in theInVEST model).
