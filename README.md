@@ -21,19 +21,19 @@ The work focused on the preparation of input data (threats and sensitivity table
 
 The research followed the processing steps detailed below:
 
-### 1. Pre-processing (Google Earth Engine)
-Extraction of descriptive statistics and percentiles from the map of priority areas for the implementation of Payment for Environmental Services (PES). 
-**Script: priority_areas_stats.js**
-
-### 2. Literature Review Analysis (R)
+### 1. Literature Review Analysis (R)
 Literature review analysis to substantiate the elaboration of threat table (input data in theInVEST model).
 **Script: lit_review_analysis.r**
+
+### 2. Priority areas for restoration (bodiversity) within property boundaries
+Extraction of mean priority for each preperty. Values extracted from the map of priority areas for the implementation of Payment for Environmental Services (ongoing doctoral project (Process No. 2023/04497-9).
+**Script: priority_areas_stats.js**
 
 ### 3. Land Use Predominance
 Extract the land use predominance within a property using CAR shapefile and Mapbiomas land use (Collection 9) from 2023.
 **Script: LULC_predominance.r**
 
-### 3. Land Use Scenarios
+### 4. Land Use Scenarios
 Scripts for the spatialization of **conservative** and **feasible** land use scenarios related to the research objectives.
 **Scripts:**
 **- Conservative: conservative_secnario.r**
