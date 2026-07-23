@@ -43,7 +43,7 @@ Scripts for the spatialization of **conservative** and **feasible** scenarios re
 
 ## 🎓 Acknowledgments
 This research was financially supported by the **São Paulo Research Foundation (FAPESP)**. 
-**Grant Number:**2023/04497-9
+**Grant Number:2025/00039-1****
 
 ---
 *Developed as part of a PhD Research Internship.*
