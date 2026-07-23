@@ -29,6 +29,10 @@ Extraction of descriptive statistics and percentiles from the map of priority ar
 Literature review analysis to substantiate the elaboration of threat table (input data in theInVEST model).
 **Script: lit_review_analysis.r**
 
+### 3. Land Use Predominance
+Extract the land use predominance within a property using CAR shapefile and Mapbiomas land use (Collection 9) from 2023.
+**Script: LULC_predominance.r**
+
 ### 3. Land Use Scenarios
 Scripts for the spatialization of **conservative** and **feasible** land use scenarios related to the research objectives.
 **Scripts:**
