@@ -1,4 +1,6 @@
-
+# AUTORA: BARBARA RENTES BARBOSA
+# UNIVERSIDADE FEDERAL DE SÃO CARLOS - SOROCABA
+# CONTATO = bahrentes@gmail.com
 
 #Uso do solo predominante por propriedade CUBO
 
