@@ -27,15 +27,12 @@ Extraction of descriptive statistics and percentiles from the map of priority ar
 ### 2. Literature Review Analysis (R)
 Literature review analysis to substantiate the elaboration of threat table (input data in theInVEST model).
 
-### 3. Linear regression for sensibility table (R)
-Linear regression to substantiate the elaboration of sensibility table (input data in theInVEST model).
-
-### 4. Opportunity Cost (ArcGIS)
+### 3. Opportunity Cost (ArcGIS)
 Development of the opportunity cost map using the Raster Calculator.
 
   * **Formula applied:** > $Opportunity Cost = (Land Price \times 0.5) + (Agricultural Suitability \times 0.5)$
 
-### 5. Land Use Scenarios
+### 4. Land Use Scenarios
 Scripts for the spatialization of **conservative** and **feasible** scenarios related to the research objectives.
 
 ---
