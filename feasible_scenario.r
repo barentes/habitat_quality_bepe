@@ -1,5 +1,9 @@
+# AUTORA: BARBARA RENTES BARBOSA
+# UNIVERSIDADE FEDERAL DE SÃO CARLOS - SOROCABA
+# CONTATO = bahrentes@gmail.com
+
 #Feasible scenario (properties that has predominance lulc PST and Mosaic of Uses)  AND  pt_ls_mr ≥ 1 OR pt_ls_hr ≥ 1 AND R_mean ≥ P75 OR P60 (depending on scenario)
-# Number of properties = 2009
+# Number of properties = 248 (feasible25) / 631 (feasible50)
 
 library(terra)
 
