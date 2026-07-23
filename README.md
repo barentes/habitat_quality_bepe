@@ -23,17 +23,17 @@ The research followed the processing steps detailed below:
 
 ### 1. Pre-processing (Google Earth Engine)
 Extraction of descriptive statistics and percentiles from the map of priority areas for the implementation of Payment for Environmental Services (PES). 
+**Script: priority_areas_stats.js**
 
 ### 2. Literature Review Analysis (R)
 Literature review analysis to substantiate the elaboration of threat table (input data in theInVEST model).
+**Script: lit_review_analysis.r**
 
-### 3. Opportunity Cost (ArcGIS)
-Development of the opportunity cost map using the Raster Calculator.
-
-  * **Formula applied:** > $Opportunity Cost = (Land Price \times 0.5) + (Agricultural Suitability \times 0.5)$
-
-### 4. Land Use Scenarios
-Scripts for the spatialization of **conservative** and **feasible** scenarios related to the research objectives.
+### 3. Land Use Scenarios
+Scripts for the spatialization of **conservative** and **feasible** land use scenarios related to the research objectives.
+**Scripts:**
+**- Conservative: conservative_secnario.r**
+**- Feasible: feasible_scenario.r** (feasible25 and feasible50 scenarios use the same scirpt changing only the input data)
 
 ---
 
